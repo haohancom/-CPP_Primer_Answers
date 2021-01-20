@@ -1,6 +1,10 @@
 #ifndef CPP_PRIMER_ANSWERS_10_2_H
 #define CPP_PRIMER_ANSWERS_10_2_H
 #include "../header.h"
+/*
+ * desc :
+ * 用accumulate求一个vector<int>中的元素之和。
+ */
 class Demo {
 public:
     static void test() {
