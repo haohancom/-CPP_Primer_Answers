@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/hanhao/CLionProjects/CPP_Primer_Answers/ch10/10.1.h
+/Users/hanhao/CLionProjects/CPP_Primer_Answers/ch10/10.2.h
 ../header.h
 /Users/hanhao/CLionProjects/CPP_Primer_Answers/header.h
 
@@ -17,8 +17,10 @@ vector
 -
 iostream
 -
+list
+-
 
 /Users/hanhao/CLionProjects/CPP_Primer_Answers/main.cpp
-ch10/10.1.h
-/Users/hanhao/CLionProjects/CPP_Primer_Answers/ch10/10.1.h
+ch10/10.2.h
+/Users/hanhao/CLionProjects/CPP_Primer_Answers/ch10/10.2.h
 
