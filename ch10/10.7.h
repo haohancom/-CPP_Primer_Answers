@@ -14,6 +14,7 @@ public:
         while (cin >> i) {
             l.push_back(i);
         }
+        //vec.resize(l.size());
         copy(l.cbegin(), l.cend(), vec.begin());
         for (auto j : vec) {
             cout << j << endl;
@@ -23,6 +24,7 @@ public:
     static void test2() {
        vector<int> vec;
        vec.reserve(10);
+       // vec.resize(10) instead of vec.reserve(10);
        fill_n(vec.begin(), 10, 0);
     };
 };
