@@ -7,6 +7,10 @@
 #IncludeRegexTransform: 
 
 /Users/hanhao/CLionProjects/CPP_Primer_Answers/ch10/10.1.h
+../header.h
+/Users/hanhao/CLionProjects/CPP_Primer_Answers/header.h
+
+/Users/hanhao/CLionProjects/CPP_Primer_Answers/header.h
 algorithm
 -
 vector

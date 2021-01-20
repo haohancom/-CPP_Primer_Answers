@@ -83,6 +83,9 @@
 		<Unit filename="/Users/hanhao/CLionProjects/CPP_Primer_Answers/ch10/10.1.h">
 			<Option target="CPP_Primer_Answers"/>
 		</Unit>
+		<Unit filename="/Users/hanhao/CLionProjects/CPP_Primer_Answers/header.h">
+			<Option target="CPP_Primer_Answers"/>
+		</Unit>
 		<Unit filename="/Users/hanhao/CLionProjects/CPP_Primer_Answers/main.cpp">
 			<Option target="CPP_Primer_Answers"/>
 		</Unit>

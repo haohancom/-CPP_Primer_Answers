@@ -1,10 +1,6 @@
 #ifndef CPP_PRIMER_ANSWERS_10_1_H
 #define CPP_PRIMER_ANSWERS_10_1_H
-#include <algorithm>
-#include <vector>
-#include <iostream>
-using namespace std;
-
+#include "../header.h"
 /*
  * desc:
  * 头文件algorithm中定义了一个名为count的函数，它类似find，接受一对迭代器和一个值作为参数。
