@@ -17,7 +17,7 @@ public:
     };
 
 private:
-    static void elimDups(vector<string> vec) {
+    static void elimDups(vector<string> &vec) {
         sort(vec.begin(), vec.end());
         printVec(vec);
         auto end_uniques = unique(vec.begin(), vec.end());
