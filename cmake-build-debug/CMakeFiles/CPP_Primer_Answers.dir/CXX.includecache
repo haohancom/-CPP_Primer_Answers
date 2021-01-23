@@ -6,13 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/hanhao/CLionProjects/CPP_Primer_Answers/ch10/10.17.h
-../header.h
-/Users/hanhao/CLionProjects/CPP_Primer_Answers/header.h
-Sales_Data.h
-/Users/hanhao/CLionProjects/CPP_Primer_Answers/ch10/Sales_Data.h
-
-/Users/hanhao/CLionProjects/CPP_Primer_Answers/ch10/Sales_Data.h
+/Users/hanhao/CLionProjects/CPP_Primer_Answers/ch10/10.18.h
 ../header.h
 /Users/hanhao/CLionProjects/CPP_Primer_Answers/header.h
 
@@ -27,6 +21,6 @@ list
 -
 
 /Users/hanhao/CLionProjects/CPP_Primer_Answers/main.cpp
-ch10/10.17.h
-/Users/hanhao/CLionProjects/CPP_Primer_Answers/ch10/10.17.h
+ch10/10.18.h
+/Users/hanhao/CLionProjects/CPP_Primer_Answers/ch10/10.18.h
 
