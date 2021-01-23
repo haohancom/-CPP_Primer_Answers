@@ -17,11 +17,11 @@ public:
     static void biggies(vector<string> &vec, size_t sz)
     {
         elimdups(vec);
-        stable_partition(vec.begin(), vec.end(),
+        stable_sort(vec.begin(), vec.end(),
                     [](string const& l, string const& r) {return l.size() < r.size(); }
         );
 
-        auto iter = partition(vec.begin(), vec.end(), [sz](string const &s) {return s.size() >= sz;});
+        auto iter = stable_partition(vec.begin(), vec.end(), [sz](string const &s) {return s.size() >= sz;});
 
         for_each(iter, vec.end(),
                  [](const string &s) {
@@ -31,7 +31,7 @@ public:
 
     static void test() {
         vector<string> v{"124", "123", "124", "13892", "25001", "213786", "asdhkhj"};
-        biggies(v, 3);
+        biggies(v, 4);
     }
 };
 #endif //CPP_PRIMER_ANSWERS_10_19_H
