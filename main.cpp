@@ -1,4 +1,4 @@
-#include "ch10/10.31.h"
+#include "ch10/10.32.h"
 
 int main() {
     Demo::test();
