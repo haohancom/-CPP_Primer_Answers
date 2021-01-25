@@ -6,18 +6,10 @@
 
 #IncludeRegexTransform: 
 
-/Users/hanhao/CLionProjects/CPP_Primer_Answers/ch10/10.32.h
+/Users/hanhao/CLionProjects/CPP_Primer_Answers/ch10/10.33.h
 ../header.h
 /Users/hanhao/CLionProjects/CPP_Primer_Answers/header.h
-Sales_Data.h
-/Users/hanhao/CLionProjects/CPP_Primer_Answers/ch10/Sales_Data.h
-numeric
-/Users/hanhao/CLionProjects/CPP_Primer_Answers/ch10/numeric
-
-/Users/hanhao/CLionProjects/CPP_Primer_Answers/ch10/Sales_Data.h
-iostream
--
-string
+fstream
 -
 
 /Users/hanhao/CLionProjects/CPP_Primer_Answers/header.h
@@ -31,6 +23,6 @@ list
 -
 
 /Users/hanhao/CLionProjects/CPP_Primer_Answers/main.cpp
-ch10/10.32.h
-/Users/hanhao/CLionProjects/CPP_Primer_Answers/ch10/10.32.h
+ch10/10.33.h
+/Users/hanhao/CLionProjects/CPP_Primer_Answers/ch10/10.33.h
 
