@@ -6,11 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/Users/hanhao/CLionProjects/CPP_Primer_Answers/ch10/10.33.h
+/Users/hanhao/CLionProjects/CPP_Primer_Answers/ch10/10.34.h
 ../header.h
 /Users/hanhao/CLionProjects/CPP_Primer_Answers/header.h
-fstream
--
 
 /Users/hanhao/CLionProjects/CPP_Primer_Answers/header.h
 algorithm
@@ -23,6 +21,6 @@ list
 -
 
 /Users/hanhao/CLionProjects/CPP_Primer_Answers/main.cpp
-ch10/10.33.h
-/Users/hanhao/CLionProjects/CPP_Primer_Answers/ch10/10.33.h
+ch10/10.34.h
+/Users/hanhao/CLionProjects/CPP_Primer_Answers/ch10/10.34.h
 
